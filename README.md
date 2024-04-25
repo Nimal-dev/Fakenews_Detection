@@ -1,6 +1,6 @@
 # Fake News Detection Project
 
-This project is aimed at detecting fake news using machine learning techniques. It consists of a React frontend for user interaction and a Laravel backend for handling data processing and model inference.
+This project is aimed at detecting fake news using machine learning techniques. It consists of a React frontend for user interaction and a python backend for handling data processing.
 
 ## Features
 
